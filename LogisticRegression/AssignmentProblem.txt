@@ -1,0 +1,8 @@
+Create a dataset based on a different features of students data and using Logistic Regression classify whether student Pass/Fail in exam.
+Features of Student:
+1. StudentName  :X1
+2. Attendance(%):X2
+3. Minor_Marks(%):X3
+4. Internal_Assessment(%):X4
+5. Major_Marks(%):X5
+6. Result (as Pass(1)/Fail(0)):Y
